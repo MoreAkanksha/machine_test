@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Nemap_MachineTest.NemapMachineTestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.185 s <<< FAILURE! - in Nemap_MachineTest.NemapMachineTestApplicationTests
+Nemap_MachineTest.NemapMachineTestApplicationTests  Time elapsed: 0.183 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
